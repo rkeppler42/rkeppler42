@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rkeppler42
+- 👋 Hi, I'm Roberto Keppler!
 - 👀 I’m interested in backend development and data science.
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript and Go.
 - 💞️ I’m looking to collaborate on interesting projects for newbies.
