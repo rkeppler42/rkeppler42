@@ -1,8 +1,11 @@
 - 👋 Hi, I'm Roberto Keppler!
 - 👀 I’m interested in backend development and data science.
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript and Go.
+- 🌱 I’m currently learning Python, HTML, CSS, Javascript, Go and SQL.
 - 💞️ I’m looking to collaborate on interesting projects for newbies.
-- 📫 How to reach me: rkeppler42@gmail.com
+- 📫 How to reach me: 
+    - rkeppler42@gmail.com
+    - twitter.com/rkeppler42
+    - linkedin.com/in/rkeppler42
 - 😄 Pronouns: he/him
 
 <!---
