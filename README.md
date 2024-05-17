@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, Go and SQL.
 - 💞️ I’m looking to collaborate on interesting projects for newbies.
 - 📫 How to reach me: 
-    - rkeppler42@gmail.com
+    - [a]rkeppler42@gmail.com[/a]
     - twitter.com/rkeppler42
     - linkedin.com/in/rkeppler42
 - 😄 Pronouns: he/him
