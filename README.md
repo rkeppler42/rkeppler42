@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Roberto Keppler!
-- 👀 I’m interested in backend development and data science.
+- 👀 I’m interested in backend development and databases.
 - 🌱 I’m currently learning Python, Go, SQL, bash and Java.
 - 💞️ I’m looking to collaborate on interesting projects for newbies.
 - 📫 How to reach me: 
