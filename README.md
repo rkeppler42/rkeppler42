@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Roberto Keppler!
 - 👀 I’m interested in backend development and databases.
-- 🌱 I’m currently learning Python, Go, SQL, bash and Java.
+- 🌱 I’m currently learning Python, SQL, C#, HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on interesting projects for newbies.
 - 📫 How to reach me: 
     - rkeppler42@gmail.com
