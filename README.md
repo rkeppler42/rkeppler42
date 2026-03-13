@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects for newbies.
 - 📫 How to reach me: 
     - rkeppler42@gmail.com
-    - twitter.com/rkeppler42
-    - linkedin.com/in/rkeppler42
+    - [linkedin.com/in/rkeppler42](linkedin.com/in/rkeppler42)
 - 😄 Pronouns: he/him
 
 <!---
