@@ -16,6 +16,7 @@ I have a daily study routine and I'm always building or practicing something.
 ## 📚 What I'm studying
 
 - **Daily:** [Hyperskill](https://github.com/rkeppler42/JetBrainsAcademy-Python) · [Exercism](https://github.com/rkepldn42/exercism) · SQL
+- **Studying at:** [Instituto Infnet](https://github.com/rkeppler42/infnet-software-engineering)
 - **Regularly:** Dataquest · Python Backend path (Alura) · Backend & Systems (Boot.dev)
 
 ## 🌱 A bit more about me
@@ -50,6 +51,7 @@ Tenho uma rotina diária de estudos e estou sempre praticando ou construindo alg
 ## 📚 O que estou estudando
 
 - **Todo dia:** [Hyperskill](https://github.com/rkeppler42/JetBrainsAcademy-Python) · [Exercism](https://github.com/rkepldn42/exercism) · SQL
+- **Cursando:** [Instituto Infnet](https://github.com/rkeppler42/infnet-software-engineering)
 - **Regularmente:** Dataquest · Trilha de Backend com Python (Alura) · Backend & Sistemas (Boot.dev)
 
 ## 🌱 Um pouco mais sobre mim
